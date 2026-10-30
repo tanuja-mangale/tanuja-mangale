@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="C:\Users\DELL\Downloads\banner.jpg" width="100%" />
+  <img src="./banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Tanuja 👋</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Excel • Tableau</h3>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Excel </h3>
 
 <p align="center">
   Turning data into meaningful insights through analysis, visualization, and problem-solving.
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
 </p>
 
 ---
@@ -54,18 +54,15 @@ Developed a machine learning model to predict customer churn by analyzing custom
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanuja-mangale&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuja-mangale&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
-</p>
+
 
 <p align="center">
   <i>Learning continuously. Analyzing thoughtfully. Building with purpose.</i>
