@@ -1,4 +1,6 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3d7bd2e5-db85-4555-a34c-408e7a810a45" />
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Tanuja 👋</h1>
 
